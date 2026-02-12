@@ -2,7 +2,7 @@
 Desenvolvimento de um site para o laboratório Saúde & CIA. Projeto focado na aplicação de tags semânticas avançadas e estruturação de um sistema de consultas e cadastros para pacientes
 
 -Tecnologias Utilizadas-
-HTML5: Utilização de tags semânticas (como <hgroup>, <nav>, <header>) para melhor acessibilidade e SEO.
+HTML5: Utilização de tags semânticas (como hgroup, nav, header) para melhor acessibilidade e SEO.
 
 CSS3: Estilização externa para garantir uma identidade visual limpa e moderna.
 
